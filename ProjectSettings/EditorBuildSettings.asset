@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/EarthDomain.unity
+    guid: 4451176b494c4ec459839707d5bc34d4
+  - enabled: 1
+    path: Assets/_Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/WaterDomain.unity
+    guid: b35ebcda002285744b57bb0bdf9984f5
+  - enabled: 1
+    path: Assets/_Scenes/FishingGame.unity
+    guid: 6eecff1f1f59cd145a78655d061ea4a3
+  m_configObjects: {}

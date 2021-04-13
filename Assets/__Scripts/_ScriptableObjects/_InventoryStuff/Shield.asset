@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd2570a0fbf6747e9a0aad776d4f07ff, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemName: Shield
+  itemDescription: This is a shield used by the Knight to defend against enemy attacks.
+    Use by pressing "x" key on keyboard
+  itemImage: {fileID: 21300000, guid: 5756f7215a02be2438be85308d77b5d4, type: 3}
+  numberHeld: 1
+  usable: 0
+  unique: 1
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
